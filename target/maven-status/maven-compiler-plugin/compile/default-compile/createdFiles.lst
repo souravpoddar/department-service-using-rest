@@ -1,0 +1,10 @@
+com\savvy\springboodemo\entity\Department.class
+com\savvy\springboodemo\SpringBooDemoApplication.class
+com\savvy\springboodemo\entity\ErrorMessage.class
+com\savvy\springboodemo\error\DemoExceptionHandler.class
+com\savvy\springboodemo\error\DepartmentNotFoundException.class
+com\savvy\springboodemo\service\DepartmentServicesImpl.class
+com\savvy\springboodemo\repository\DepartmentRepository.class
+com\savvy\springboodemo\entity\Department$DepartmentBuilder.class
+com\savvy\springboodemo\service\DepartmentServices.class
+com\savvy\springboodemo\controller\DepartmentController.class
